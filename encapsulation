@@ -1,0 +1,6 @@
+Encapsulation — quick explain
+
+- Encapsulation hides internal state (fields) and exposes behavior via methods.
+- Use `private` for fields, `public` for getters/setters or behaviors, and validate inputs.
+
+See the runnable example in the `encapsulation_demo` folder.
